@@ -193,7 +193,7 @@ textarea {
     min-height: 680px;
     position: relative;
     background:
-        url("vera image/Snack IMG-20261015-WA0088.jpg")
+        url("Snack IMG-20261015-WA0088.jpg")
         center/cover;
     display: flex;
     align-items: center;
@@ -569,7 +569,7 @@ footer h3 {
             rgba(0,0,0,0.65),
             rgba(0,0,0,0.65)
         ),
-        url("vera image/Snack IMG-20261015-WA0088.jpg")
+        url("Snack IMG-20261015-WA0088.jpg")
         center/cover;
     color: white;
 }
@@ -806,7 +806,7 @@ footer h3 {
             rgba(0,0,0,0.35),
             rgba(0,0,0,0.35)
         ),
-        url("vera image/Snack IMG-20261015-WA0088.jpg")
+        url("Snack IMG-20261015-WA0088.jpg")
         center/cover;
     display: grid;
     place-items: center;
